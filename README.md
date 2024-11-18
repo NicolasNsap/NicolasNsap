@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Juan 
+# ¡Hola! 👋 Soy Nicolas 
 ### 👨‍💻 Desarrollador Backend | Apasionado por el fitness 💪
 - 🌱 Actualmente aprendiendo **Spring Security**.
 - 🚀 Trabajando en un MVP para una app de entrenamiento personalizado.
