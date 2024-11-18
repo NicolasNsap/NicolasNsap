@@ -2,7 +2,7 @@
 ### 👨‍💻 Desarrollador Backend | Apasionado por el fitness 💪
 - 🌱 Actualmente aprendiendo **Spring Security**.
 - 🚀 Trabajando en un MVP para una app de entrenamiento personalizado.
-- 📫 Contáctame: nico.nsap93@gmail.com)
+- 📫 Contáctame: nico.nsap93@gmail.com
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
