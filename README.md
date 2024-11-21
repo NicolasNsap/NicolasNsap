@@ -15,7 +15,7 @@
 
 
 🔗 **Encuéntrame en**:  
-![LinkedIn](https://www.linkedin.com/in/nico-abarca-818064293).
+[LinkedIn](https://www.linkedin.com/in/nico-abarca-818064293).
 
 
 <!---
