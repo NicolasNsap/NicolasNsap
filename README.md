@@ -63,9 +63,9 @@ Una aplicación mobile de seguimiento de entrenamientos construida de cero como 
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasNsap&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800)](https://github.com/NicolasNsap)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NicolasNsap&theme=radical&hide_border=true&locale=es)](https://github.com/NicolasNsap)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasNsap&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)](https://github.com/NicolasNsap)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasNsap&layout=compact&theme=radical&hide_border=true)](https://github.com/NicolasNsap)
 
 </div>
 
