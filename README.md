@@ -55,7 +55,6 @@ Una aplicación mobile de seguimiento de entrenamientos construida de cero como 
 ### 📫 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nico-abarca)
-[![GitHub Streak](https://streak-stats.demolab.com?user=NicolasNsap&theme=radical&hide_border=true&locale=es)](https://github.com/NicolasNsap)
 
 ---
 
@@ -64,8 +63,6 @@ Una aplicación mobile de seguimiento de entrenamientos construida de cero como 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NicolasNsap&theme=radical&hide_border=true&locale=es)](https://github.com/NicolasNsap)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasNsap&layout=compact&theme=radical&hide_border=true)](https://github.com/NicolasNsap)
 
 </div>
 
